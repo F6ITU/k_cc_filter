@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1711725")(type "KiCad")(uri "${KIPRJMOD}/libraries/1711725")(options "")(descr ""))
+  (lib (name "Capacitor_SMD")(type "KiCad")(uri "${KIPRJMOD}/libraries/Capacitor_SMD.pretty")(options "")(descr ""))
+  (lib (name "Capacitor_THT")(type "KiCad")(uri "${KIPRJMOD}/libraries/Capacitor_THT.pretty")(options "")(descr ""))
+  (lib (name "Connector_Phoenix_1711725-Master")(type "KiCad")(uri "${KIPRJMOD}/libraries/Connector_Phoenix_1711725-Master")(options "")(descr ""))
+  (lib (name "L_Iron_Small-Master")(type "KiCad")(uri "${KIPRJMOD}/libraries/L_Iron_Small-Master")(options "")(descr ""))
+  (lib (name "L_Toroid_Horizontal_D25.4mm_P22.90mm")(type "KiCad")(uri "${KIPRJMOD}/libraries/L_Toroid_Horizontal_D25.4mm_P22.90mm.pretty")(options "")(descr ""))
+  (lib (name "MountingHole")(type "KiCad")(uri "${KIPRJMOD}/libraries/MountingHole.pretty")(options "")(descr ""))
+)
