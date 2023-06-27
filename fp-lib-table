@@ -7,4 +7,5 @@
   (lib (name "L_Iron_Small-Master")(type "KiCad")(uri "${KIPRJMOD}/libraries/L_Iron_Small-Master")(options "")(descr ""))
   (lib (name "L_Toroid_Horizontal_D25.4mm_P22.90mm")(type "KiCad")(uri "${KIPRJMOD}/libraries/L_Toroid_Horizontal_D25.4mm_P22.90mm.pretty")(options "")(descr ""))
   (lib (name "MountingHole")(type "KiCad")(uri "${KIPRJMOD}/libraries/MountingHole.pretty")(options "")(descr ""))
+  (lib (name "boutfiltre")(type "KiCad")(uri "${KIPRJMOD}/libraries/boutfiltre.pretty")(options "")(descr ""))
 )

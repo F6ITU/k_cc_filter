@@ -1,11 +1,11 @@
 {
   "board": {
-    "active_layer": 36,
+    "active_layer": 37,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -68,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "K_PSU_filter.kicad_prl",
+    "filename": "K_PSU_dual_filter.kicad_prl",
     "version": 3
   },
   "project": {
